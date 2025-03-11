@@ -144,16 +144,10 @@ const FunctionComponent = () => {
                 </svg>
                 Tips for accurate results
               </h3>
-              <ul className="mt-2 text-sm text-blue-700 space-y-1 list-disc pl-3">
-                <li className="flex items-start ml-0">
-                  <span className="block ml-[-4px]">Enter specific locations for better accuracy</span>
-                </li>
-                <li className="flex items-start ml-0">
-                  <span className="block ml-[-4px]">Include district/city, state and country</span>
-                </li>
-                <li className="flex items-start ml-0">
-                  <span className="block ml-[-4px]">For example: "Mumbai, Maharashtra, India"</span>
-                </li>
+              <ul className="mt-2 text-sm text-blue-700 space-y-1 pl-5 list-disc">
+                <li>Enter specific locations for better accuracy</li>
+                <li>Include district/city, state and country</li>
+                <li>For example: "Mumbai, Maharashtra, India"</li>
               </ul>
             </div>
           </div>
